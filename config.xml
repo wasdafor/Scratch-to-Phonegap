@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "moneyclicker.543017.edu.mit.scratch"
+        id          = "floppybird.543017.edu.mit.scratch"
         versionCode = "10" 
         version     = "1.0.0" >
 
     <!-- versionCode is optional and Android only -->
 
-    <name>moneyclicker</name>
+    <name>Floppy bird</name>
 
     <description>
         An app made using Scratch, GitHub, and PhoneGap.
     </description>
 
-    <author href="http://scratch.mit.edu/users/543017" email="543017@wartburg.nl">
+    <author href="http://scratch.mit.edu/users/543017" email="pietervisserplay@gmail.com">
         543017
     </author>
 
